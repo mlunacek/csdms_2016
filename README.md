@@ -6,7 +6,7 @@ Notebooks for the CSDMS annual meeting May, 2016
 
 There are many recent additions to Python that make it an excellent programming language for data analysis. This tutorial has two goals: 
 
-1. First, we'll discuss several of the recent Python modules for data analysis in the form of notebooks that provide hands-on exercises for manipulating and analyzing data using pandas, scikit-learn, cytoolz, dask, and several new visualization libraries. 
+1. First, we discuss several of the recent Python modules for data analysis in the form of notebooks that provide hands-on exercises for manipulating and analyzing data using pandas, scikit-learn, cytoolz, dask, and several new visualization libraries. 
 2. Second, we execute examples using the Jupyter notebook, a web-based interactive development environment that facilitates documentation, sharing, and remote execution. 
 
 Together these tools create a powerful, new way to approach scientific workflows for data analysis.
