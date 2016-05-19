@@ -4,6 +4,12 @@ Notebooks for the CSDMS annual meeting May, 2016
 
 ## Python Data Tools
 
+There are many recent additions to Python that make it an excellent programming language for data analysis. This tutorial has two goals: - First, we'll discuss several of the recent Python modules for data analysis in the form of notebooks that provide hands-on exercises for manipulating and analyzing data using pandas, scikit-learn, cytoolz, dask, and several new visualization libraries. 
+- Second, we execute examples using the Jupyter notebook, a web-based interactive development environment that facilitates documentation, sharing, and remote execution. 
+
+Together these tools create a powerful, new way to approach scientific workflows for data analysis.
+
+
 ### Setup
 
 I would install the latest python package from [Anaconda](https://www.continuum.io/downloads).  This should have everything you need to run the notebook examples.  You can even consider using [miniconda](http://conda.pydata.org/miniconda.html).
